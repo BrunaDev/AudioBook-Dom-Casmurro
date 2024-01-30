@@ -7,8 +7,8 @@
    <p>
    1.2. Download Zip;
    <p>
-   1.3. Extraia a pasta do zip;
-2. Abra o arquivo **"index.html"**, abrirá um arquivo no seu navegador de preferência.
+   1.3. Extraia a pasta do arquivo .zip;
+2. Abra o arquivo **"index.html"** (Downloads >> AudioBook-Dom-Casmurro-main >> AudioBook-Dom-Casmurro-main >> IntensivaoJS), abrirá uma página no seu navegador de preferência;
 3. Clique em Play (▶️) para reproduzir; pause (⏸️) para pausar; next (⏭️) para ir para a próxima sessão e back (⏪) para voltar para a sessão anterior.
 
 ## 📖 Resumo da obra
